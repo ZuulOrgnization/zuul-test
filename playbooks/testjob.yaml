@@ -2,7 +2,7 @@
   tasks:
     - name: This is First task
       debug:
-        msg: Hello world!
+        msg: Hello How are you ?
     - name: This is second task
       debug:
         command:date      
