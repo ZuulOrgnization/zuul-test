@@ -3,7 +3,7 @@
     run: playbooks/testjob.yaml
 
 - project:
-    name:ZuulOrgnization/zuul-test
+    name: ZuulOrgnization/zuul-test
     check:
       jobs:
         - noop
